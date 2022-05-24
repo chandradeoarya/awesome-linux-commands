@@ -21,6 +21,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 <!-- TOC -->
 
 - [aafire](#aafire)
+- [xeyes](#xeyes)
 
 <!-- /TOC -->
 
@@ -38,4 +39,16 @@ sudo yum install aalib  [On CentOS/RHEL 7]
 
 <p align="center">
   <img src="https://github.com/chandradeoarya/awesome-linux-commands/blob/master/gifs/aafire.gif?raw=true" />
+</p>
+
+## xeyes
+Contributed by- <a href="#">Mohammed Shaikh</a>
+
+```
+apt-get install x11-apps
+yum install xorg-xeyes
+```
+
+<p align="center">
+  <img src="https://github.com/chandradeoarya/awesome-linux-commands/blob/master/gifs/xeyes.gif?raw=true" />
 </p>
