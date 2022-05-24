@@ -28,7 +28,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 # List of Commands
 
 ## aafire
-Contributed by- Chandra Arya
+Contributed by- <a href="https://www.linkedin.com/in/chandradeoarya">Chandra Arya</a>
 
 #### How to install 
 ```
