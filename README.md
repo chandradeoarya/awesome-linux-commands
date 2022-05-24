@@ -44,6 +44,7 @@ sudo yum install aalib  [On CentOS/RHEL 7]
 ## xeyes
 Contributed by- <a href="#">Mohammed Shaikh</a>
 
+#### How to install 
 ```
 apt-get install x11-apps
 yum install xorg-xeyes
