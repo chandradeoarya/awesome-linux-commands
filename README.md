@@ -20,11 +20,22 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 <!-- TOC -->
 
-- [List of Commands](#list-of-commands)
+- [aafire](#aafire)
 
 <!-- /TOC -->
 
 
 # List of Commands
 
+## aafire
+Contributed by- Chandra Arya
 
+#### How to install 
+```
+sudo apt install libaa-bin  [On Debian/Ubuntu & Mint]
+sudo yum install aalib  [On CentOS/RHEL 7]
+```
+
+<p align="center">
+  <img src="https://github.com/chandradeoarya/awesome-linux-commands/blob/master/gifs/aafire.gif?raw=true" />
+</p>
