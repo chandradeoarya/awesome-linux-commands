@@ -1,4 +1,6 @@
-[<img src="https://github.com/chandradeoarya/awesome-linux-commands/blob/master/dancing-linux.gif?raw=true" align="center">](https://github.com/chandradeoarya/awesome-linux-commands/)
+<p align="center">
+  <img src="https://github.com/chandradeoarya/awesome-linux-commands/blob/master/dancing-linux.gif?raw=true" />
+</p>
 
 <p align="center">
 
@@ -25,5 +27,4 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 # List of Commands
 
-> Zappa makes it super easy to build and deploy server-less, event-driven Python applications (including, but not limited to, WSGI web apps) on AWS Lambda + API Gateway. Think of it as "serverless" web hosting for your Python apps. That means infinite scaling, zero downtime, zero maintenance - and at a fraction of the cost of your current deployments!
 
