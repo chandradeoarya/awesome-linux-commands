@@ -1,4 +1,4 @@
-[<img src="https://github.com/chandradeoarya/awesome-linux-commands/blob/master/dancing-linux.gif?raw=true" align="center" width="850">](https://github.com/chandradeoarya/awesome-linux-commands/)
+[<img src="https://github.com/chandradeoarya/awesome-linux-commands/blob/master/dancing-linux.gif?raw=true" align="center" width="300">](https://github.com/chandradeoarya/awesome-linux-commands/)
 
 <p align="center">
 
