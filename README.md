@@ -53,3 +53,17 @@ yum install xorg-xeyes
 <p align="center">
   <img src="https://github.com/chandradeoarya/awesome-linux-commands/blob/master/gifs/xeyes.gif?raw=true" />
 </p>
+
+
+## aafire
+Contributed by- <a href="https://www.linkedin.com/in/chandradeoarya">Chandra Arya</a>
+
+#### How to install 
+```
+sudo apt install cmatrix  [On Debian/Ubuntu & Mint]
+sudo dnf install cmatrix  [On CentOS/RHEL 8 & Fedora]
+```
+
+<p align="center">
+  <img src="https://github.com/chandradeoarya/awesome-linux-commands/blob/master/gifs/cmatrix.gif?raw=true" />
+</p>
