@@ -22,6 +22,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [aafire](#aafire)
 - [xeyes](#xeyes)
+- [cmatrix](#cmatrix)
+- [cat](#cat)
 
 <!-- /TOC -->
 
@@ -55,7 +57,7 @@ yum install xorg-xeyes
 </p>
 
 
-## aafire
+## cmatrix
 Contributed by- <a href="https://www.linkedin.com/in/chandradeoarya">Chandra Arya</a>
 
 #### How to install 
@@ -66,4 +68,18 @@ sudo dnf install cmatrix  [On CentOS/RHEL 8 & Fedora]
 
 <p align="center">
   <img src="https://github.com/chandradeoarya/awesome-linux-commands/blob/master/gifs/cmatrix.gif?raw=true" />
+</p>
+
+## cat
+Contributed by- <a href="https://www.linkedin.com/in/chandradeoarya">Chandra Arya</a>
+
+#### How to install 
+```
+git clone https://github.com/GuidoFe/bash-cat-with-cat
+chmod +x cat.sh
+./cat.sh quote.txt
+```
+
+<p align="center">
+  <img src="https://github.com/chandradeoarya/awesome-linux-commands/blob/master/gifs/cat.gif?raw=true" />
 </p>
