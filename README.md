@@ -1,9 +1,9 @@
-[<img src="https://github.com/chandradeoarya/awesome-linux-commands/blob/master/dancing-linux.gif?raw=true" align="center" width="300">](https://github.com/chandradeoarya/awesome-linux-commands/)
+[<img src="https://github.com/chandradeoarya/awesome-linux-commands/blob/master/dancing-linux.gif?raw=true" align="center">](https://github.com/chandradeoarya/awesome-linux-commands/)
 
 <p align="center">
 
   <a href="https://github.com/search?q=linux&type=Repositories">
-    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-748-brightgreen.svg" />
+    <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-1-brightgreen.svg" />
   </a>
   <img alt="Entries" src="https://img.shields.io/badge/Items-1-lightgrey.svg" />
   <a href="https://github.com/sindresorhus/awesome">
