@@ -21,7 +21,7 @@ sudo apt install tint
 - Aisha ALsubaie
 - ManarAlolasi
 - 
-- Mastoura Omar
+- Mastoura Omar Alqisi
 - 
 - 
 - 
