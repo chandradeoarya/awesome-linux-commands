@@ -96,6 +96,5 @@ sudo apt install tint
 <p align="center">
   <img src="https://github.com/chandradeoarya/awesome-linux-commands/blob/master/gifs/tint.gif?raw=true" />
 </p>
-<p align="center">
-eman alotaibi
-</p>
+
+Contributed by- <a href="#"> eman alotaibi</a>
