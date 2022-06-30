@@ -20,7 +20,7 @@ sudo apt install tint
 - eman alotaibi
 - Aisha ALsubaie
 - ManarAlolasi
-- Reema Almuhaimeed 
+- Reema Almuhaimeed
 - 
 - 
 - 
