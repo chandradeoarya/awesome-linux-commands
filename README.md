@@ -2,8 +2,6 @@
   <img src="https://github.com/chandradeoarya/awesome-linux-commands/blob/master/dancing-linux.gif?raw=true" />
 </p>
 
-<h1>Mohammed Eid</h1>
-
 <p align="center">
 
   <a href="https://github.com/search?q=linux&type=Repositories">
@@ -26,6 +24,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [xeyes](#xeyes)
 - [cmatrix](#cmatrix)
 - [cat](#cat)
+- [tint](#tint)
 
 <!-- /TOC -->
 
@@ -86,6 +85,18 @@ chmod +x cat.sh
   <img src="https://github.com/chandradeoarya/awesome-linux-commands/blob/master/gifs/cat.gif?raw=true" />
 </p>
 
+## tint
+Contributed by- <a href="#">Noura Alotaibi</a>
+
+#### How to install 
+```
+sudo apt install tint
+```
+
+<p align="center">
+  <img src="https://github.com/chandradeoarya/awesome-linux-commands/blob/master/gifs/tint.gif?raw=true" />
+</p>
+
 ## List of all contributors
 - Chandra Arya
 - eman alotaibi
@@ -96,4 +107,9 @@ chmod +x cat.sh
 - Roba Almehmadi
 - rawan zabidi
 - Hanan Alqarni
-- Mohammed Eid :)
+- Reema Almuhaimeed
+- Mastoura Omar Alqisi
+- Dareen Algraigri
+- Raghad Alharbi
+- jawza subai
+- Mohammed Eid :grinning:
