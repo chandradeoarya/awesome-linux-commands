@@ -2,6 +2,8 @@
   <img src="https://github.com/chandradeoarya/awesome-linux-commands/blob/master/dancing-linux.gif?raw=true" />
 </p>
 
+<h1>Mohammed Eid</h1>
+
 <p align="center">
 
   <a href="https://github.com/search?q=linux&type=Repositories">
