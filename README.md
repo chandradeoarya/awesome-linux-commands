@@ -87,7 +87,7 @@ chmod +x cat.sh
 
 ## tint
 Contributed by- <a href="#">Noura Alotaibi</a>
-Contributed by- <a href="#">Rawabi Mohammed</a>
+<br>Contributed by- <a href="#">Rawabi Mohammed</a>
 
 #### How to install 
 ```
