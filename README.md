@@ -99,7 +99,7 @@ sudo apt install tint
 
 ## List of all contributors
 - Chandra Arya
-- 
+- rawan zabidi
 - 
 - 
 - 
