@@ -1,6 +1,10 @@
+
 <p align="center">
   <img src="https://github.com/chandradeoarya/awesome-linux-commands/blob/master/dancing-linux.gif?raw=true" />
 </p>
+
+<h1>Fatimah made the change</h1>
+
 
 <p align="center">
 
@@ -99,11 +103,3 @@ sudo apt install tint
 
 ## List of all contributors
 - Chandra Arya
-- rawan zabidi
-- 
-- 
-- 
-- 
-- 
-- 
-- 
