@@ -106,5 +106,8 @@ sudo apt install tint
 - eman alotaibi
 - Aisha ALsubaie
 - ManarAlolasi
-- Hanan Alqarni 
--
+- Rawabi
+- Fatimah Khamees
+- Roba Almehmadi
+- rawan zabidi
+- Hanan Alqarni
