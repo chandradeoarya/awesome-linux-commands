@@ -17,7 +17,6 @@ Linux is not supposed to be so dull and boring. This is a curated list of funny 
 If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
 
 # Contents <!-- omit in toc -->
-
 <!-- TOC -->
 
 - [aafire](#aafire)
@@ -115,3 +114,4 @@ sudo apt install tint
 - Mohammed Eid :grinning:
 - Abdullah Kimrigh
 - Doha
+- Fatima Almagrabi
