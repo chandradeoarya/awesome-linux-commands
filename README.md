@@ -111,6 +111,7 @@ sudo apt install cowsay-beefymiracle [on Fedora]
 $ cowsay "I love Linux"
 ```
 
+```
 < I love Linux >
 --------------
        \   ^__^
@@ -119,7 +120,7 @@ $ cowsay "I love Linux"
                ||----w |
                ||     ||
 
-
+```
 ## List of all contributors
 - Chandra Arya
 - eman alotaibi
@@ -138,4 +139,4 @@ $ cowsay "I love Linux"
 - Mohammed Eid :grinning:
 - Abdullah Kimrigh
 - Doha
--Raghad Almutlaq
+- Raghad Almutlaq
