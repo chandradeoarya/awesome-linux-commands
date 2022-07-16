@@ -97,6 +97,30 @@ sudo apt install tint
   <img src="https://github.com/chandradeoarya/awesome-linux-commands/blob/master/gifs/tint.gif?raw=true" />
 </p>
 
+## cowsay
+Contributed by- <a href="https://github.com/raghadmta">Raghad Almutlaq</a>
+
+#### How to install 
+```
+sudo apt install cowsay   [On Ubuntu ]
+sudo yum install cowsay   [On amazon linux ]
+sudo apt install cowsay-beefymiracle [on Fedora]
+```
+----
+```
+$ cowsay "I love Linux"
+```
+
+```
+< I love Linux >
+--------------
+       \   ^__^
+        \  (oo)\_______
+           (__)\       )\/\
+               ||----w |
+               ||     ||
+
+```
 ## List of all contributors
 - Chandra Arya
 - eman alotaibi
@@ -115,3 +139,4 @@ sudo apt install tint
 - Mohammed Eid :grinning:
 - Abdullah Kimrigh
 - Doha
+- Raghad Almutlaq
