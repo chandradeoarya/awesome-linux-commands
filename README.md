@@ -117,3 +117,4 @@ sudo apt install tint
 - Doha 
 - Haneen Alkhulaify
 - Ghada Alsahli
+- [Muhannad Sinan](https://github.com/MohanadSinan)
