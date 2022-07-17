@@ -115,4 +115,4 @@ sudo apt install tint
 - Mohammed Eid :grinning:
 - Abdullah Kimrigh
 - Doha
-- Muhannad Sinan
+- [Muhannad Sinan](https://github.com/MohanadSinan)
