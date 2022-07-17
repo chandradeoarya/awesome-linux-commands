@@ -118,3 +118,4 @@ sudo apt install tint
 - Haneen Alkhulaify
 - Ghada Alsahli
 - [Muhannad Sinan](https://github.com/MohanadSinan)
+- <p><a href="https://github.com/abdullah01455/resume"><em><span style="color:#ffffff"><strong><span style="font-size:18px"><span style="background-color:#2ecc71">Abdullah Almutaywia</span></span></strong></span></em><span style="background-color:#000000">😄</span></a></p>
