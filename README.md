@@ -114,5 +114,6 @@ sudo apt install tint
 - jawza subai
 - Mohammed Eid :grinning:
 - Abdullah Kimrigh
-- Doha
+- Doha 
+- Haneen Alkhulaify
 - Ghada Alsahli
