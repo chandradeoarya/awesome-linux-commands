@@ -118,3 +118,4 @@ sudo apt install tint
 - Haneen Alkhulaify
 - Ghada Alsahli
 - [Muhannad Sinan](https://github.com/MohanadSinan)
+- [Edwin Quito](https://github.com/epquito)
