@@ -28,13 +28,14 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 <!-- /TOC -->
 
-
 # List of Commands
 
 ## aafire
+
 Contributed by- <a href="https://www.linkedin.com/in/chandradeoarya">Chandra Arya</a>
 
-#### How to install 
+#### How to install
+
 ```
 sudo apt install libaa-bin  [On Debian/Ubuntu & Mint]
 sudo yum install aalib  [On CentOS/RHEL 7]
@@ -45,9 +46,11 @@ sudo yum install aalib  [On CentOS/RHEL 7]
 </p>
 
 ## xeyes
+
 Contributed by- <a href="#">Mohammed Shaikh</a>
 
-#### How to install 
+#### How to install
+
 ```
 apt-get install x11-apps
 yum install xorg-xeyes
@@ -57,11 +60,12 @@ yum install xorg-xeyes
   <img src="https://github.com/chandradeoarya/awesome-linux-commands/blob/master/gifs/xeyes.gif?raw=true" />
 </p>
 
-
 ## cmatrix
+
 Contributed by- <a href="https://www.linkedin.com/in/chandradeoarya">Chandra Arya</a>
 
-#### How to install 
+#### How to install
+
 ```
 sudo apt install cmatrix  [On Debian/Ubuntu & Mint]
 sudo dnf install cmatrix  [On CentOS/RHEL 8 & Fedora]
@@ -72,9 +76,11 @@ sudo dnf install cmatrix  [On CentOS/RHEL 8 & Fedora]
 </p>
 
 ## cat
+
 Contributed by- <a href="https://www.linkedin.com/in/chandradeoarya">Chandra Arya</a>
 
-#### How to install 
+#### How to install
+
 ```
 git clone https://github.com/GuidoFe/bash-cat-with-cat
 chmod +x cat.sh
@@ -86,9 +92,11 @@ chmod +x cat.sh
 </p>
 
 ## tint
+
 Contributed by- <a href="#">Noura Alotaibi</a>
 
-#### How to install 
+#### How to install
+
 ```
 sudo apt install tint
 ```
@@ -98,6 +106,7 @@ sudo apt install tint
 </p>
 
 ## List of all contributors
+
 - Chandra Arya
 - eman alotaibi
 - Aisha ALsubaie
@@ -114,7 +123,8 @@ sudo apt install tint
 - jawza subai
 - Mohammed Eid :grinning:
 - Abdullah Kimrigh
-- Doha 
+- Doha
 - Haneen Alkhulaify
 - Ghada Alsahli
 - [Muhannad Sinan](https://github.com/MohanadSinan)
+- [Chad Thompson-Smith](https://github.com/tsmith4014)
